@@ -1,8 +1,7 @@
-# ia_notebooks
-Notebooks de inteligencia artificial, machine learning y otras cosas
+# Notebooks de Inteligencia Artificial, Machine Learning y otros algoritmos
 
-IA vs ML: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebastiandres/ia_notebooks/master?filepath=1_IA_vs_ML.ipynb)
+**IA vs ML**: [github](https://mybinder.org/v2/gh/sebastiandres/ia_notebooks/master?filepath=1_IA_vs_ML.ipynb) (modo sólo lectura) o [binder](https://mybinder.org/v2/gh/sebastiandres/ia_notebooks/master?filepath=1_IA_vs_ML.ipynb) (modo interactivo).
 
 
-ML Apps: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebastiandres/ia_notebooks/master?filepath=2_ML_applications.ipynb)
+**ML Apps**: [github](https://mybinder.org/v2/gh/sebastiandres/ia_notebooks/master?filepath=2_ML_applications.ipynb) (modo sólo lectura) o [binder](https://mybinder.org/v2/gh/sebastiandres/ia_notebooks/master?filepath=2_ML_applications.ipynb) (modo interactivo).
 
