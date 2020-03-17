@@ -12,6 +12,7 @@ jupyterlab = "*"
 pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
+altair = "*"
 
 [requires]
 python_version = "3.7"
